@@ -33,13 +33,14 @@ TODO: Add your explanation
 
 TODO: Replace the image below with your own.
 
-![kscore.png]
+![kscore.png](https://github.com/kamalbatcha1/bike-sharing-demand-prediction/blob/main/kscore.png)
+
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 TODO: Replace the image below with your own.
 
-![add 3 features.png](kamalbatcha1/bike-sharing-demand-prediction/add 3 features.png)
+![add 3 features.png]()
 
 ## Summary
 TODO: Add your explanation
