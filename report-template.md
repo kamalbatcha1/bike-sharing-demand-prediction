@@ -39,7 +39,7 @@ TODO: Replace the image below with your own.
 
 TODO: Replace the image below with your own.
 
-![add 3 features.png]
+![add 3 features.png](kamalbatcha1/bike-sharing-demand-prediction/add 3 features.png)
 
 ## Summary
 TODO: Add your explanation
