@@ -25,7 +25,7 @@ TODO: Add your explanation
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
 |model|hpo1|hpo2|hpo3|score|
 |--|--|--|--|--|
-|initial|?|?|?|?|
+|initial|?|8|?|?|
 |add_features|?|?|?|?|
 |hpo|?|?|?|?|
 
