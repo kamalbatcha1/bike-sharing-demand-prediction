@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Kaggle / secrets
+kaggle.json
+*.key
+*.env
+
+# Data files (VERY IMPORTANT)
+*.csv
+*.zip
+*.tar
+*.gz
+
+# Model files
+*.pth
+*.pkl
+*.joblib
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# AutoGluon / ML outputs
+AutogluonModels/
+models/
+lightning_logs/
+
+# VS Code / IDE
+.vscode/
+.idea/
