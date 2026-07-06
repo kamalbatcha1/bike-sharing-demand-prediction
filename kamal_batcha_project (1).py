@@ -114,9 +114,6 @@ submission_new_features=pd.read_csv("sampleSubmission.csv")
 submission_new_features["count"] = predictions
 submission_new_features.to_csv("submission_new_features.csv", index=False)
 
-!kaggle competitions submit -c bike-sharing-demand -f submission_new_features.csv -m "new features"
-
-!kaggle competitions submissions -c bike-sharing-demand | tail -n +1 | head -n 6
 
 """#### New Score of `?`
 
@@ -197,10 +194,6 @@ submission_new_hpo=pd.read_csv("sampleSubmission.csv")
 submission_new_hpo["count"] = prediction_new_hpo
 submission_new_hpo.to_csv("submission_new_hpo.csv", index=False)
 submission_new_hpo
-
-!kaggle competitions submit -c bike-sharing-demand -f submission_new_hpo.csv -m "new features with hyperparameters"
-
-!kaggle competitions submissions -c bike-sharing-demand | tail -n +1 | head -n 6
 
 """#### New Score of `?`
 
