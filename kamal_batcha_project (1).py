@@ -167,11 +167,11 @@ gbm_options = {
 hyperparameters={
                  "GBM":gbm_options,"RF":rf_option,
 }
-num_trails=2
+num_trials=2
 search_strategy = 'auto'
 
 hyperparameter_tune_kwargs={
-    "num_trails":num_trails,
+    "num_trials":num_trials,
     "searcher":search_strategy,
     "scheduler":"local",
 }
